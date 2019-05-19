@@ -1,2 +1,2 @@
 # pyslots
-hosts my pyslots game
+hosts my pyslots game, in development as of now.
